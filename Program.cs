@@ -82,15 +82,15 @@ namespace TestGameSharp
 
         readonly static string[] tex_paths = new string[]
         {
-            @"res\backdrop.jpg",
-            @"res\title.png",
-            @"res\ship.png",
-            @"res\boom0.png",
-            @"res\boom1.png",
-            @"res\boom2.png",
-            @"res\hateshroom.png",
-            @"res\redshot.png",
-            @"res\blueshot.png"
+            @"res/backdrop.jpg",
+            @"res/title.png",
+            @"res/ship.png",
+            @"res/boom0.png",
+            @"res/boom1.png",
+            @"res/boom2.png",
+            @"res/hateshroom.png",
+            @"res/redshot.png",
+            @"res/blueshot.png"
         };
 
         struct Boom
